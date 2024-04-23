@@ -85,12 +85,14 @@ a {
 .copyright {
     align-self: center;
     padding-bottom: 1rem;
+	opacity: 0.9;
 
 }
 
 .privacy {
     align-self: center;
     padding-right: 2rem;
+	opacity: 0.7;
 }
 
 
